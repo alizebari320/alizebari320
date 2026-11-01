@@ -27,10 +27,10 @@ before you configure anything.
 | Project | What it does |
 | :--- | :--- |
 | **[alpha-ioi](https://github.com/alizebari320/alpha-ioi)** | Native Linux LLM chat client. GTK4/libadwaita, SSE streaming, OpenAI-compatible + Anthropic + Ollama, offline demo mode. Unit-tested, CI green. |
-| **[Alpha-Sketch](https://github.com/alizebari320/Alpha-Sketch)** | Photo → narrated sketch video. Four OpenCV sketch styles, Gemini vision writes the script, edge-tts voiceover, karaoke captions. English, Arabic, Kurdish Sorani. Renders 9:16 and 16:9 in one run. |
+| **[alpha-sketch](https://github.com/alizebari320/alpha-sketch)** | Photo → narrated sketch video. Four OpenCV sketch styles, Gemini vision writes the script, edge-tts voiceover, karaoke captions. English, Arabic, Kurdish Sorani. Renders 9:16 and 16:9 in one run. |
 | **[kurd-ai-health](https://github.com/alizebari320/kurd-ai-health)** | Local-first clinic triage. Laravel + React + FastAPI, Gemini symptom routing, OpenCV X-ray preprocessing. No cloud, no Firebase, runs on localhost. |
 | **[alpha-shell](https://github.com/alizebari320/alpha-shell)** | GNOME Shell extension. Prompt HUD, screenshot explain, clipboard translate/summarize, terminal command assist. |
-| **[ALPHA AI](https://github.com/alizebari320/ALPHA-AI-)** | Learning platform for Kurdish and Arabic speakers — interactive coding lessons, a localised AI tool directory, and an automated news pipeline. Laravel. |
+| **[alpha-learn](https://github.com/alizebari320/alpha-learn)** | Learning platform for Kurdish and Arabic speakers (ALPHA AI) — interactive coding lessons, a localised AI tool directory, and an automated news pipeline. Laravel. |
 
 ### Tools I reach for
 
